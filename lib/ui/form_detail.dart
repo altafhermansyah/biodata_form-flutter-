@@ -33,7 +33,7 @@ class FormDetailState extends State<FormDetail> {
         child: Card(
           elevation: 5.0, // Memberikan efek shadow
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(15.0), // Sudut melengkung
+            borderRadius: BorderRadius.circular(15.0), // Sudut melengkung\]`
           ),
           margin: const EdgeInsets.only(top: 20.0), // Jarak dari atas layar
           child: Padding(

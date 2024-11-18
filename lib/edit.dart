@@ -73,7 +73,7 @@ class EditState extends State<Edit>{
     // TODO: implement build
     return Scaffold(
       appBar: AppBar(
-        title: Text(
+        title: const Text(
           "Edit Siswa",
           style: TextStyle(
             color: Colors.white,

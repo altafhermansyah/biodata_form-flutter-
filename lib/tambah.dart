@@ -164,7 +164,6 @@ class FormTambahState extends State<FormTambah>{
     );
   }
 
-
   _textboxReligion() {
     return Container(
       margin: const EdgeInsets.symmetric(horizontal: 50.0, vertical: 10),
